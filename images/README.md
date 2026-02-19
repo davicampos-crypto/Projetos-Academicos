@@ -105,9 +105,6 @@ flexaposicaoX++;//acrescenta em um o valor de posicao da flexa
         delay(2000);//espera um tempo
       flexaposicaoX=0;//define a posicao da flexa como 0
     }
-  }
-  ```
-  
-  
-   
+  } 
 }
+```
